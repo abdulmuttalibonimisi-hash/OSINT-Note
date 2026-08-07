@@ -1,2 +1,2 @@
-# OSINT-Note
-Hands-on OSINT practice — recon methodology, dorking techniques, and tool-based investigations (theHarvester, Sherlock, ExifTool, and more) with documented reasoning and findings from guided labs and self-directed research.
+#SOC-DFIR-OSINT-LABS
+Hands-on cybersecurity labs — SOC analysis, digital forensics (DFIR), and OSINT investigations. Documented findings, tools, and IOCs from guided labs (TryHackMe, LetsDefend, MYDFIR) as part of ongoing SIWES practical training.
